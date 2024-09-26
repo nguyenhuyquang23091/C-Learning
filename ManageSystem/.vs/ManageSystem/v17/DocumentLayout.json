@@ -1,0 +1,649 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quang\\source\\repos\\ManageSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\dal\\loginstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\dal\\loginstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\models\\teachingstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\models\\teachingstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|c:\\users\\quang\\source\\repos\\managesystem\\managesystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\models\\userviewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\models\\userviewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\viewbyrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\viewbyrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\viewbyrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\viewbyrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\viewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\viewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\viewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\viewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\bll\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\bll\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\addteachingstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\addteachingstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\addteachingstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\addteachingstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\addadministration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\addadministration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\addadministration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\addadministration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\editstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\editstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\editstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\editstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\editadministration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\editadministration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\editadministration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\editadministration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\models\\administration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\models\\administration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\editteachingstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\editteachingstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\editteachingstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\editteachingstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\selectrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\selectrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\models\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\models\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\models\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\models\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\editstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\editstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\presentattion\\edituser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\presentattion\\edituser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|c:\\users\\quang\\desktop\\c#\\project2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|C:\\Users\\quang\\source\\repos\\ManageSystem\\managesystem\\images\\iconarchive-essential-buildings-school.512.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{84DF38C7-6346-4BC9-82D3-3490589E61E5}|ManageSystem\\ManageSystem.csproj|solutionrelative:managesystem\\images\\iconarchive-essential-buildings-school.512.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\BLL\\RoleService.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\BLL\\RoleService.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\BLL\\RoleService.cs",
+              "RelativeToolTip": "ManageSystem\\BLL\\RoleService.cs",
+              "ViewState": "AQIAAMgAAAAAAAAAAAAswNoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:28:25.434Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\MainForm.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\MainForm.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\MainForm.cs",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\MainForm.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAcwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:15:57.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewByRole.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\ViewByRole.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\ViewByRole.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\ViewByRole.cs [Design]",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\ViewByRole.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:39:49.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewByRole.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\ViewByRole.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\ViewByRole.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\ViewByRole.cs",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\ViewByRole.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswC0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:39:52.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loginstore.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\DAL\\loginstore.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\DAL\\loginstore.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\DAL\\loginstore.cs",
+              "RelativeToolTip": "ManageSystem\\DAL\\loginstore.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAswLYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:39:35.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserViewAll.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Models\\UserViewALl.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Models\\UserViewALl.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Models\\UserViewALl.cs",
+              "RelativeToolTip": "ManageSystem\\Models\\UserViewALl.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAywA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:46:51.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Models\\Student.cs",
+              "RelativeToolTip": "ManageSystem\\Models\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:40:12.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Models\\User.cs",
+              "RelativeToolTip": "ManageSystem\\Models\\User.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:36:38.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeachingStaff.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Models\\TeachingStaff.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Models\\TeachingStaff.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Models\\TeachingStaff.cs",
+              "RelativeToolTip": "ManageSystem\\Models\\TeachingStaff.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:25:05.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\MainForm.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\MainForm.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\MainForm.cs [Design]",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T01:27:56.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewAll.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\ViewAll.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\ViewAll.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\ViewAll.cs [Design]",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\ViewAll.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:53:05.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewAll.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\ViewAll.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\ViewAll.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\ViewAll.cs",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\ViewAll.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T00:08:33.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddTeachingStaff.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\AddTeachingStaff.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\AddTeachingStaff.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\AddTeachingStaff.cs",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\AddTeachingStaff.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:55:27.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddAdministration.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\AddAdministration.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\AddAdministration.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\AddAdministration.cs",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\AddAdministration.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAcwDoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:55:15.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddAdministration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\AddAdministration.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\AddAdministration.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\AddAdministration.cs [Design]",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\AddAdministration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:25:38.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddTeachingStaff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\AddTeachingStaff.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\AddTeachingStaff.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\AddTeachingStaff.cs [Design]",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\AddTeachingStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:55:26.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditStudent.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditStudent.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\EditStudent.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditStudent.cs",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\EditStudent.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwHAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:31:47.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditStudent.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\EditStudent.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditStudent.cs [Design]",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\EditStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:39:14.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditAdministration.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditAdministration.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\EditAdministration.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditAdministration.cs",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\EditAdministration.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAA9wH0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:08:38.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddStudent.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\AddStudent.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\AddStudent.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\AddStudent.cs",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\AddStudent.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAArwE4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:24:17.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\AddStudent.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\AddStudent.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\AddStudent.cs [Design]",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\AddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:08:19.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditAdministration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditAdministration.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\EditAdministration.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditAdministration.cs [Design]",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\EditAdministration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:19:22.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Administration.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Models\\Administration.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Models\\Administration.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Models\\Administration.cs",
+              "RelativeToolTip": "ManageSystem\\Models\\Administration.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwC0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:02:35.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditTeachingStaff.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditTeachingStaff.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\EditTeachingStaff.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditTeachingStaff.cs",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\EditTeachingStaff.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwFQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:49:43.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditTeachingStaff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditTeachingStaff.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\EditTeachingStaff.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditTeachingStaff.cs [Design]",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\EditTeachingStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:11:50.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Registerform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\Registerform.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\Registerform.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\Registerform.cs [Design]",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\Registerform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:02:37.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SelectRole.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\SelectRole.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\SelectRole.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\SelectRole.cs [Design]",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\SelectRole.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:02:40.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Loginform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\Loginform.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\Loginform.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\Loginform.cs [Design]",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\Loginform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T05:16:57.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EditUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditUser.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\EditUser.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditUser.cs [Design]",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\EditUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:22:35.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Loginform.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\Loginform.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\Loginform.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\Loginform.cs",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\Loginform.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wCkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T05:16:58.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Registerform.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\Registerform.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\Registerform.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\Registerform.cs",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\Registerform.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAswDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:22:04.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUSer.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Models\\IUSer.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Models\\IUSer.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Models\\IUSer.cs",
+              "RelativeToolTip": "ManageSystem\\Models\\IUSer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:40:02.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Program.cs",
+              "RelativeToolTip": "ManageSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:21:26.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditUser.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditUser.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\EditUser.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditUser.cs",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\EditUser.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAawCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:31:21.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "roletype.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Models\\roletype.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Models\\roletype.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Models\\roletype.cs",
+              "RelativeToolTip": "ManageSystem\\Models\\roletype.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:50:35.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EditStudent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditStudent.Designer.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\EditStudent.Designer.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditStudent.Designer.cs",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\EditStudent.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:45:45.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\Desktop\\C#\\PROJECT2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\C#\\PROJECT2\\Form1.cs",
+              "ToolTip": "C:\\Users\\quang\\Desktop\\C#\\PROJECT2\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\C#\\PROJECT2\\Form1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAWwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:00:58.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EditUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditUser.Designer.cs",
+              "RelativeDocumentMoniker": "ManageSystem\\Presentattion\\EditUser.Designer.cs",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Presentattion\\EditUser.Designer.cs",
+              "RelativeToolTip": "ManageSystem\\Presentattion\\EditUser.Designer.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAowFAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:32:14.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "ManageSystem\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Properties\\Resources.resx",
+              "RelativeToolTip": "ManageSystem\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-19T12:49:29.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Iconarchive-Essential-Buildings-School.512.png - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Images\\Iconarchive-Essential-Buildings-School.512.png",
+              "RelativeDocumentMoniker": "ManageSystem\\Images\\Iconarchive-Essential-Buildings-School.512.png",
+              "ToolTip": "C:\\Users\\quang\\source\\repos\\ManageSystem\\ManageSystem\\Images\\Iconarchive-Essential-Buildings-School.512.png - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "ManageSystem\\Images\\Iconarchive-Essential-Buildings-School.512.png - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-19T12:55:52.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
